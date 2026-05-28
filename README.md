@@ -28,7 +28,7 @@ dI/dt = γ·I·T - δ·I
 
 **Kompilasi:**
 ```bash
-gcc tumor_simulation.c -o tumor_simulation -lm
+gcc main.c -o tumor_simulation -lm
 ```
 
 **Jalankan:**
