@@ -117,8 +117,3 @@ Ringkasan nilai akhir juga ditampilkan di terminal setelah simulasi selesai.
 
 - GCC atau compiler C lainnya
 - Tidak ada dependensi eksternal
-
-## Referensi
-
-- Kuznetsov et al. (1994). *Bulletin of Mathematical Biology*, 56(2), 295–321.
-- Sarkar & Banerjee (2005). *Mathematical Biosciences*, 196(1), 65–81.
