@@ -52,7 +52,7 @@ Parameter tetap pada semua skenario bawaan:
 
 ---
 
-### Skenario 1 — Respons Imun Lemah
+### Skenario 1 - Respons Imun Lemah
 
 Sistem imun tidak cukup efektif untuk membendung pertumbuhan tumor. Sel imun ada, tetapi kemampuan membunuh tumor (`α`) sangat rendah sehingga tumor berpotensi terus berkembang.
 
@@ -63,7 +63,7 @@ Sistem imun tidak cukup efektif untuk membendung pertumbuhan tumor. Sel imun ada
 
 ---
 
-### Skenario 2 — Respons Imun Kuat
+### Skenario 2 - Respons Imun Kuat
 
 Sistem imun bekerja efektif. Nilai `α` empat kali lebih besar dari skenario 1, sehingga sel imun mampu menekan pertumbuhan tumor secara signifikan.
 
@@ -74,7 +74,7 @@ Sistem imun bekerja efektif. Nilai `α` empat kali lebih besar dari skenario 1, 
 
 ---
 
-### Skenario 3 — Tumor Agresif
+### Skenario 3 - Tumor Agresif
 
 Tumor tumbuh hampir dua kali lebih cepat dibanding skenario 1 dan 2. Meskipun respons imun moderat, laju proliferasi tumor yang tinggi menantang kemampuan sistem imun untuk mengendalikannya.
 
@@ -85,7 +85,7 @@ Tumor tumbuh hampir dua kali lebih cepat dibanding skenario 1 dan 2. Meskipun re
 
 ---
 
-### Skenario 4 — Parameter Kustom
+### Skenario 4 - Parameter Kustom
 
 Pengguna memasukkan seluruh parameter secara manual melalui terminal, termasuk `γ` (laju stimulasi imun) yang tidak tersedia di skenario bawaan.
 
